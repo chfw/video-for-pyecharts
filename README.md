@@ -5,7 +5,7 @@ README
 ```
 python log.py
 sh automate.sh # there are some magics omitted but you can get a video
-pip install movie.py
+pip install moviepy
 python clip-aug.py
 ```
 
